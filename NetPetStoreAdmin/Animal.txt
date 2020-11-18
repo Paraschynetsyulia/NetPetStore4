@@ -1,0 +1,2 @@
+Cat,Siderian,2,grey,1000,Doroshenca,2,2,2
+Cat,SIA,2,bleck,100,,2
